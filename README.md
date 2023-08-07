@@ -6,6 +6,8 @@
 
 ### 2. Clone the repository to your local machine:
 
+hoge
+
 ```terminal
 git clone https://github.com/your-username/conflict-practice.git
 cd conflict-practice
